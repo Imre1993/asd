@@ -1,7 +1,12 @@
 /* CSS styles */
 h1 {
 font-family: Impact, sans-serif;
-color: #CE5937;
+color: white;
+}
+
+p {
+font-family: Impact, sans-serif;
+color: white;
 }
 
 body {
